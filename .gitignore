@@ -1,0 +1,8 @@
+# Byte-compiled / optimized /DLL files
+__pycache__/
+
+# Dependency directories
+env/
+
+# IDE-specific files
+*.idea/
